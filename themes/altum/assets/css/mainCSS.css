@@ -1,0 +1,71 @@
+#goog-gt-tt {
+    display: none !important;
+}
+
+.goog-te-banner-frame {
+    display: none !important;
+}
+
+.goog-te-menu-value:hover {
+    text-decoration: none !important;
+}
+
+#google_translate_element2 {
+    display: none !important;
+}
+
+#google_translate_element2 {
+    display: none !important;
+}
+
+nav {
+    position: static;
+}
+@font-face {
+    font-family: Helvetica;
+    src: url(font/HelveticaWorld-Regular.ttf);
+}
+.main-heading{
+    font-family: 'Roboto', sans-serif;
+}
+.text-gradient-2{
+    font-family: 'Roboto', sans-serif;
+}
+.hh2{
+    font-family: 'Roboto', sans-serif;
+}
+.white-text{
+    font-family: 'Roboto', sans-serif;
+}
+h5{
+    font-family: 'Roboto', sans-serif;
+}
+.dropdown-toggle::after {
+    display:none;
+}
+.site-main-menu{
+    display: flex;
+    margin-left: 500px;
+   
+   
+}
+.btn1{
+    padding: 15px 3px;
+    display: flex;
+    margin-left: 8px;
+}
+
+.center{
+    text-align: center;
+    font-size: 15px;
+    margin: 20px 0;
+}
+
+
+/* @media (min-width: 120px) and (max-width: 760) {
+    .w-inline-block {
+        
+    }
+} */
+
+
